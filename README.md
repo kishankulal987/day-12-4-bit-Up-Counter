@@ -137,4 +137,3 @@ Below is the simulation waveform, showing inputs clk, reset, enable, and output 
 
 
 <img width="761" alt="image" src="https://github.com/user-attachments/assets/85615086-7549-4d37-b253-a39b02bc70d1" />
-<img width="761" alt="image" src="https://github.com/user-attachments/assets/85615086-7549-4d37-b253-a39b02bc70d1" />
